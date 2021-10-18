@@ -1,0 +1,5 @@
+ERROR - 2021-10-13 00:44:05 --> Can't create database 'db_pustaka_booking_12200946'; database exists
+ERROR - 2021-10-13 00:44:12 --> Can't create database 'db_pustaka_booking_12200946'; database exists
+ERROR - 2021-10-13 00:44:56 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: NO)
+ERROR - 2021-10-13 00:45:22 --> Can't create database 'db_pustaka_booking_12200946'; database exists
+ERROR - 2021-10-13 00:48:16 --> Can't create database 'db_pustaka_booking_12200946'; database exists
